@@ -1,0 +1,6 @@
+Error trapecio = -f''(e) * (b-a)^3/12
+Error Simpson = -1/90 * h^5 * f^4(e)
+
+E TC = (-(b-a)h^2/12) * f''(e), H = b-a/n-1
+
+ESC = -(b-a)h^4/180 * f^4(e) 
